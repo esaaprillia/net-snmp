@@ -10,5 +10,5 @@ NetSNMPGetOpts();
 
 WriteMakefile(
     'NAME' => 'Bundle::NetSNMP',
-    'DIR' => [qw(default_store ASN OID agent SNMP TrapReceiver)],
+    'DIR' => [],
     );
